@@ -1,0 +1,4 @@
+Sally Type 1 3.100000 45 Yes 
+Tom Type 1 2.500000 20 No 
+Joy Type 3 0.510000 1 No 
+Lily Type 2 2.100000 80 Uncertain 
