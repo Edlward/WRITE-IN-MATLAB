@@ -1,11 +1,11 @@
-% ÔÚ Matlab µÄÍ¼ĞÎÖĞÀûÓÃ Interpreter µÄÊôĞÔÖµÎª latex£¬¿ÉÒÔÊ¹ÓÃÊıÑ§¹«Ê½
-% »­³öy=sin(x),y=sin(x+pi/3)+2,y=cos(x)
+% åœ¨ Matlab çš„å›¾å½¢ä¸­åˆ©ç”¨ Interpreter çš„å±æ€§å€¼ä¸º latexï¼Œå¯ä»¥ä½¿ç”¨æ•°å­¦å…¬å¼
+% ç”»å‡ºy=sin(x),y=sin(x+pi/3)+2,y=cos(x)
 x=-2*pi:0.1:2*pi;
 y1=sin(x);
 y2=sin(x+pi/3)+2;
 y3=cos(x);
 plot(x,y1,'-');
-hold on %Í¼ĞÎ±£³ÖÃüÁî
+hold on %å›¾å½¢ä¿æŒå‘½ä»¤
 plot(x,y2,'*-');
 plot(x,y3,'-o');
 h=legend('sin($x$)','sin($x+\frac{\pi}{3}$)','cos($x$)') %latex format display

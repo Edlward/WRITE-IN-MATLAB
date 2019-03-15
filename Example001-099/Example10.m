@@ -1,4 +1,4 @@
-% ½×ÌÝÍ¼
+% é˜¶æ¢¯å›¾
 function Example10
 h0=figure('toolbar','none',...
     'position',[200 150 450 400],...
@@ -11,6 +11,6 @@ stairs(t,f)
 hold on
 plot(t,f,':*')
 hold off
-glabel='º¯Êýe^{-(\alpha*t)}sin\beta*tµÄ½×ÌÝÍ¼';
+glabel='å‡½æ•°e^{-(\alpha*t)}sin\beta*tçš„é˜¶æ¢¯å›¾';
 gtext(glabel,'fontsize',16)
 axis([0 10 -1.2 1.2])

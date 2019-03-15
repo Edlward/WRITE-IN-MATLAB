@@ -1,4 +1,4 @@
-% Öù×´Í¼
+% æŸ±çŠ¶å›¾
 function Example26
 h0=figure('toolbar','none',...
     'position',[200 50 450 450],...
@@ -12,7 +12,7 @@ x=[5 2 1
 bar(x)
 xlabel('X-axis');
 ylabel('Y-axis');
-title('µÚÒ»×ÓÍ¼');
+title('ç¬¬ä¸€å­å›¾');
 subplot(2,1,2)
 y=[5 2 1
     8 7 3
@@ -22,4 +22,4 @@ y=[5 2 1
 barh(y)
 xlabel('X-axis');
 ylabel('Y-axis');
-title('µÚ¶ş×ÓÍ¼');
+title('ç¬¬äºŒå­å›¾');

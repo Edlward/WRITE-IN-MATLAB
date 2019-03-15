@@ -1,4 +1,4 @@
-% ±ıÍ¼µÄ»æÖÆ
+% é¥¼å›¾çš„ç»˜åˆ¶
 function Example09
 h0=figure('toolbar','none',...
     'position',[200 150 450 250],...
@@ -14,7 +14,7 @@ textobjs=findobj(h,'type','text');
 str1=get(textobjs,{'string'});
 val1=get(textobjs,{'extent'});
 oldext=cat(1,val1{:});
-names={'ÉÌÆ·Ò»£º';'ÉÌÆ·¶ş£º';'ÉÌÆ·Èı£º'};
+names={'å•†å“ä¸€ï¼š';'å•†å“äºŒï¼š';'å•†å“ä¸‰ï¼š'};
 str2=strcat(names,str1);
 set(textobjs,{'string'},str2)
 val2=get(textobjs,{'extent'});

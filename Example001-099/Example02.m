@@ -1,4 +1,4 @@
-% Èı½Çº¯ÊıÇúÏß£¨2£©
+% ä¸‰è§’å‡½æ•°æ›²çº¿ï¼ˆ2ï¼‰
 function Example02
 h0=figure('toolbar','none',...
     'position',[200 150 450 350],...
@@ -7,6 +7,6 @@ x=-pi:0.05:pi;
 y=sin(x)+cos(x);
 plot(x,y,'-*r','linewidth',1);
 grid on
-xlabel('×Ô±äÁ¿X');
-ylabel('º¯ÊıÖµY');
-title('Èı½Çº¯Êı');
+xlabel('è‡ªå˜é‡X');
+ylabel('å‡½æ•°å€¼Y');
+title('ä¸‰è§’å‡½æ•°');

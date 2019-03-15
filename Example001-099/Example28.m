@@ -1,4 +1,4 @@
-% Óğ×´Í¼
+% ç¾½çŠ¶å›¾
 function Example28
 h0=figure('toolbar','none',...
     'position',[200 150 450 350],...
@@ -10,11 +10,11 @@ m=alpha*pi/180;
 n=r*10;
 [u,v]=pol2cart(m,n);
 feather(u,v)
-title('Óğ×´Í¼')
+title('ç¾½çŠ¶å›¾')
 axis([0 20 0 10])
 subplot(2,1,2)
 t=0:0.5:10;
 x=0.05+i;
 y=exp(-x*t);
 feather(y)
-title('¸´Êı¾ØÕóµÄÓğ×´Í¼')
+title('å¤æ•°çŸ©é˜µçš„ç¾½çŠ¶å›¾')

@@ -1,7 +1,7 @@
-% surf,ezsurf»­³öx^2+(y-5)^2=16ÈÆxÖáÐý×ªÒ»ÖÜÐÎ³ÉµÄÇúÃæ
-% ÒòÎªÕâÀïµÄº¯ÊýÊÇÒþº¯Êý£¬ 
-% »¯³ÉÏÔº¯ÊýºóÓÐÁ½Ö§£¬
-%±ØÐëÊ¹ÓÃ²ÎÊý·½³Ì
+% surf,ezsurfç”»å‡ºx^2+(y-5)^2=16ç»•xè½´æ—‹è½¬ä¸€å‘¨å½¢æˆçš„æ›²é¢
+% å› ä¸ºè¿™é‡Œçš„å‡½æ•°æ˜¯éšå‡½æ•°ï¼Œ 
+% åŒ–æˆæ˜¾å‡½æ•°åŽæœ‰ä¸¤æ”¯ï¼Œ
+%å¿…é¡»ä½¿ç”¨å‚æ•°æ–¹ç¨‹
 alpha=[0:0.1:2*pi]';
 beta=0:0.1:2*pi;
 x=4*cos(alpha)*ones(size(beta));
@@ -14,7 +14,7 @@ Y=@(alpha,beta)(5+4*sin(alpha))*cos(beta);
 Z=@(alpha,beta)(5+4*sin(alpha))*sin(beta);
 subplot(1,2,2)
 ezsurf(X,Y,Z)
-% ¶ÔÓÚÆäËüµÄ¶þ´ÎÇúÃæ£¬
-% Èç¹û¿ÉÒÔÐ´³É µ¥Ö§µÄÏÔº¯Êý£¬
-% Ö±½ÓÊ¹ÓÃÃüÁî ezmesh »ò ezsurf »­Í¼£¬
-% ·ñÔò±ØÐëÏÈ»¯³É²ÎÊý·½³Ì
+% å¯¹äºŽå…¶å®ƒçš„äºŒæ¬¡æ›²é¢ï¼Œ
+% å¦‚æžœå¯ä»¥å†™æˆ å•æ”¯çš„æ˜¾å‡½æ•°ï¼Œ
+% ç›´æŽ¥ä½¿ç”¨å‘½ä»¤ ezmesh æˆ– ezsurf ç”»å›¾ï¼Œ
+% å¦åˆ™å¿…é¡»å…ˆåŒ–æˆå‚æ•°æ–¹ç¨‹

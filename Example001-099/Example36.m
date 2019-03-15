@@ -1,4 +1,4 @@
-% µ¯³öÊ½²Ëµ¥
+% å¼¹å‡ºå¼èœå•
 h0=figure('toolbar','none',...
     'position',[200 150 450 250],...
     'name','Example36');
@@ -37,5 +37,5 @@ huidiao=[...
     'end'];
 set(hm,'callback',huidiao)
 set(gca,'position',[0.2 0.2 0.6 0.6])
-title('µ¯³öÊ½²Ëµ¥µÄÊ¹ÓÃ')
+title('å¼¹å‡ºå¼èœå•çš„ä½¿ç”¨')
 hold on

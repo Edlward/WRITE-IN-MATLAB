@@ -1,4 +1,4 @@
-% ÂŞÅÌÍ¼
+% ç½—ç›˜å›¾
 function Example12
 h0=figure('toolbar','none',...
     'position',[200 150 450 250],...
@@ -8,5 +8,5 @@ winddirection=[54 24 65 84 256 12 235 62 125 324 34 254];
 rdirection=winddirection*pi/180;
 [x,y]=pol2cart(rdirection,windpower);
 compass(x,y);
-desc={'·çÏòºÍ·çÁ¦','±±¾©ÆøÏóÌ¨','10ÔÂ1ÈÕ0£º00µ½','10ÔÂ1ÈÕ12£º00'};
+desc={'é£å‘å’Œé£åŠ›','åŒ—äº¬æ°”è±¡å°','10æœˆ1æ—¥0ï¼š00åˆ°','10æœˆ1æ—¥12ï¼š00'};
 gtext(desc)

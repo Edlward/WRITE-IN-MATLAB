@@ -1,4 +1,4 @@
-% ÈýÎ¬ÇúÏßÍ¼
+% ä¸‰ç»´æ›²çº¿å›¾
 function Example19
 h0=figure('toolbar','none',...
     'position',[200 150 450 400],...
@@ -13,9 +13,9 @@ z2=0.5*z1;
 z3=z1;
 plot3(x,y1,z1,x,y2,z2,x,y3,z3)
 grid on
-xlabel('XÖá');
-ylabel('YÖá');
-zlabel('ZÖá');
+xlabel('Xè½´');
+ylabel('Yè½´');
+zlabel('Zè½´');
 title('Figurel:3-D Plot')
 subplot(2,1,2)
 x=linspace(0,2*pi);

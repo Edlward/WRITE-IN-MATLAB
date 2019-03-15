@@ -1,4 +1,4 @@
-% ÇøÓòÍ¼ĞÎ???
+% åŒºåŸŸå›¾å½¢???
 function Example08
 h0=figure('toolbar','none',...
     'position',[200 150 450 250],...
@@ -26,9 +26,9 @@ area(x,profits4,'facecolor',[0.6 0.5 0.9],...
 hold off
 set(gca,'xtick',[91:95])
 set(gca,'layer','top')
-gtext('\leftarrowµÚÒ»¼¾¶ÈÏúÁ¿')
-gtext('\leftarrowµÚ¶ş¼¾¶ÈÏúÁ¿')
-gtext('\leftarrowµÚÈı¼¾¶ÈÏúÁ¿')
-gtext('\leftarrowµÚËÄ¼¾¶ÈÏúÁ¿')
+gtext('\leftarrowç¬¬ä¸€å­£åº¦é”€é‡')
+gtext('\leftarrowç¬¬äºŒå­£åº¦é”€é‡')
+gtext('\leftarrowç¬¬ä¸‰å­£åº¦é”€é‡')
+gtext('\leftarrowç¬¬å››å­£åº¦é”€é‡')
 xlabel('','fontsize',16);
 ylabel('','fontsize',16);

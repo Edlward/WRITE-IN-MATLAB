@@ -1,4 +1,4 @@
-% ÂÖÀªÍ¼
+% è½®å»“å›¾
 function Example13
 h0=figure('toolbar','none',...
     'position',[200 150 450 250],...
@@ -9,8 +9,8 @@ z=x+i*y;
 f=(z.^4-1).^(0.25);
 contour(x,y,abs(f),20)
 axis equal
-xlabel('Êµ²¿','fontsize',16);
-ylabel('Ðé²¿','fontsize',16);
+xlabel('å®žéƒ¨','fontsize',16);
+ylabel('è™šéƒ¨','fontsize',16);
 h=polar([0 2*pi],[0 1]);
 delete(h)
 hold on

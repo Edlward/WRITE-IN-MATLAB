@@ -1,4 +1,4 @@
-% PEAKSº¯ÊıÇúÏß
+% PEAKSå‡½æ•°æ›²çº¿
 function Example21
 h0=figure('toolbar','none',...
     'position',[200 100 450 450],...
@@ -14,7 +14,7 @@ surfc(x,y,z)
 xlabel('X');
 ylabel('Y');
 zlabel('Z');
-title('Figurel:surfcº¯ÊıĞÎ³ÉµÄÇúÃæ')
+title('Figurel:surfcå‡½æ•°å½¢æˆçš„æ›²é¢')
 subplot(2,1,2)
 x=x(1,:);
 y=y(:,1);
@@ -25,4 +25,4 @@ surfl(x,y,z)
 xlabel('X');
 ylabel('Y');
 zlabel('Z');
-title('Figure2:surflº¯ÊıÎ§³ÉµÄÇúÃæ')
+title('Figure2:surflå‡½æ•°å›´æˆçš„æ›²é¢')

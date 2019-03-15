@@ -1,4 +1,4 @@
-% Ö¦¸ÉÍ¼
+% æå¹²å›¾
 function Example11
 h0=figure('toolbar','none',...
     'position',[200 150 450 350],...
@@ -12,6 +12,6 @@ h2=plot(x,y1,'^r',x,y2,'*g');
 hold off
 h3=[h1(1);h2];
 legend(h3,'y1+y2','y1=sin(x)','y2=cos(x)')
-xlabel('×Ô±äÁ¿X');
-ylabel('º¯ÊıÖµY');
-title('ÕıÏÒº¯ÊıÓëÓàÏÒº¯ÊıµÄÏßĞÔ×éºÏ');
+xlabel('è‡ªå˜é‡X');
+ylabel('å‡½æ•°å€¼Y');
+title('æ­£å¼¦å‡½æ•°ä¸ä½™å¼¦å‡½æ•°çš„çº¿æ€§ç»„åˆ');
