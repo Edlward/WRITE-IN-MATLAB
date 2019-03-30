@@ -1,8 +1,4 @@
 % [绘图]PEAKS函数曲线
-% function Example21
-% h0=figure('toolbar','none',...
-%     'position',[200 100 450 450],...
-%     'name','Example21');
 [x,y,z]=peaks(30);
 subplot(2,1,1)
 x=x(1,:);
