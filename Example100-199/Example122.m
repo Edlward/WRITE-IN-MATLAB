@@ -1,4 +1,4 @@
-% Logistic人口曲线模拟
+% [Modeling]Logistic人口曲线模拟
 clear
 clc
 % 读入人口数据（1971－2000年）

@@ -1,4 +1,4 @@
-function [C,Ceq]=E03_NONLCON(x)
+function [C,Ceq]=Example127_NONLCON(x)
 C(1)=x(1)-400;
 C(2)=1.1*x(1)+x(2)-440;
 C(3)=1.21*x(1)+1.1*x(2)+x(3)-484;

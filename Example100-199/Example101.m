@@ -1,4 +1,4 @@
-% Tips
+% [Tips]快捷键
 % Shift+F1打开Function Browser;
 % % 在查找到需要的函数之后，直接双击即可将该函数插入命令行中的光标位置处
 % Home光标移至行首

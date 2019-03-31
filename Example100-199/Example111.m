@@ -1,4 +1,4 @@
-% Structure数组
+% [Basic]Structure数组
 employee(1).name='henry';
 employee(1).sex='male';
 employee(1).age=25;

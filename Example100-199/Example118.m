@@ -1,4 +1,4 @@
-% matlab数据写入记事本
+% [Basic]Matlab数据写入记事本
 fid = fopen('tp.txt','wt');
 % fprintf(fid,'This is the datzbase of class 1.\n');
 name='Sally';Types=1;x=3.1;y=45;answer='Yes';

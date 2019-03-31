@@ -1,4 +1,4 @@
-% MATLAB稀疏矩阵
+% [Basic]MATLAB稀疏矩阵
 % %稀疏矩阵与一般矩阵的内存占用对比
 M_full=magic(1100);
 M_full(M_full>50)=0;

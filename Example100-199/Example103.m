@@ -1,4 +1,4 @@
-%MATLAB常用的基本数学函数
+% [Basic]MATLAB常用的基本数学函数
 % % abs(x)纯量的绝对值或向量的长度
 % % rat(x)将实数x化为分数表示
 % % angle(z)复数z的相角
