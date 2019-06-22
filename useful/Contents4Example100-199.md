@@ -33,3 +33,4 @@ FileName | Detail | Keyword | Refer | Else
 [Example130](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example100-199/Example130.m) | 敲击左右键移动底部方块 | game | None | None
 [Example150](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example100-199/Example150.m) | Malthus模型 | 线性拟合 | [重庆大学数学实验2.2](https://www.icourse163.org/learn/CQU-1002534004?tid=1206017201#/learn/content?type=detail&id=1210427113&cid=1212470206) | None
 [Example151](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example100-199/Example151.m) | Logistic模型 | 非线性拟合 | [重庆大学数学实验2.3](https://www.icourse163.org/learn/CQU-1002534004?tid=1206017201#/learn/content?type=detail&id=1210427114&cid=1212470211) | None
+[Example152](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example100-199/Example152.m) | 面积法求概率 | 蒙特卡罗 | None | None
