@@ -74,3 +74,11 @@ FileName | Detail | Keyword | Refer | Else
 [Example070](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example070.m) | 函数变换 | None | None | None
 [Example071](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example071.m) | RADON函数变换 | None | None | None
 [Example072](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example072.m) | 图像分析 | None | None | ?
+[Example092](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example092.m) | surf,ezsurf画旋转曲面 | None | None | None
+[Example093](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example093.m) | 绘制二元函数的三维表面图 | None | None | None
+[Example094](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example094.m) | ezmesh绘制椭圆柱面 | None | None | None
+[Example095](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example095.m) | 在图形中利用 Interpreter 的属性值为 latex使用数学公式 | None | None | None
+[Example096](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example096.m) | 求数值积分 | None | None | None
+[Example097](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example097.m) | 计算二重积分 | None | None | None
+[Example098](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example098.m) | 计算三重积分 | None | None | None
+[Example099](https://github.com/ooooooliver/Play_with_MATLAB/blob/master/Example001-099/Example099.m) | 复数：-8的全部立方根 | None | None | None
