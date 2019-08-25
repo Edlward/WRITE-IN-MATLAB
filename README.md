@@ -1,8 +1,4 @@
-# Play_with_MATLAB
-
-### 和 MATLAB 玩耍记录
-
-### mmp
+# WRITE IN MATLAB
 
 ## Links 4 MCM
 
