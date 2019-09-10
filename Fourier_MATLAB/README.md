@@ -1,6 +1,6 @@
 # 基于MATLAB的傅里叶级数可视化
 
-![程序界面](https://github.com/ooooooliver/WRITE-IN-MATLAB/Fourier_MATLAB/blob/master/程序截图.png)
+![程序界面](https://github.com/ooooooliver/WRITE-IN-MATLAB/blob/master/Fourier_MATLAB/%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE.png)
 
 ## 一、打开方式
 运行 main.m文件 即可打开程序
